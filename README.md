@@ -1,7 +1,7 @@
 # cwget
 Use C to implement a simple wget; c-wget cw-get 
 
-使用C/C++实现一个简易的命令行工具wget
+使用C/C++实现一个简易版的命令行工具wget
 
 用法：
 
